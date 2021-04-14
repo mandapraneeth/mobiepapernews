@@ -4,7 +4,7 @@ const Footer = () => {
         <div Style="background-color:#007bff"> 
             <center>
             <hr/>
-               <h3>&copy; Mobiepaper</h3> 
+               <h3>&copy; Mobiepaper.in 2021</h3> 
             </center>
            
         </div>
